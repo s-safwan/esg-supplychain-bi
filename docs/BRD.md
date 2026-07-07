@@ -1,0 +1,5 @@
+# Business Requirements Document (BRD)
+
+## 1. Project Overview
+
+This project develops a cloud-based Business Intelligence solution to analyze logistics-related carbon emissions across a global retail supply chain. The solution is designed to support sustainability initiatives by transforming fragmented logistics data into meaningful ESG insights that assist decision-makers in monitoring environmental performance. Using Google Cloud Platform (GCP), BigQuery, SQL, and Tableau, the project integrates, transforms, and visualizes operational data to identify emission hotspots, compare transport modes, and support sustainability reporting. The final deliverable is an executive dashboard supported by documented business requirements, data transformation logic, SQL analytics, and interactive visualizations that enable stakeholders to make informed operational decisions.
