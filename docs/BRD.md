@@ -1,5 +1,53 @@
 # Business Requirements Document (BRD)
 
-## 1. Project Overview
 
-This project develops a cloud-based Business Intelligence solution to analyze logistics-related carbon emissions across a global retail supply chain. The solution is designed to support sustainability initiatives by transforming fragmented logistics data into meaningful ESG insights that assist decision-makers in monitoring environmental performance. Using Google Cloud Platform (GCP), BigQuery, SQL, and Tableau, the project integrates, transforms, and visualizes operational data to identify emission hotspots, compare transport modes, and support sustainability reporting. The final deliverable is an executive dashboard supported by documented business requirements, data transformation logic, SQL analytics, and interactive visualizations that enable stakeholders to make informed operational decisions.
+## Project Name
+
+Supply Chain ESG Analytics Platform
+
+---
+
+## Business Problem
+
+The company manages logistics operations across multiple regions using fragmented data sources. This makes it difficult to measure estimated carbon emissions, identify inefficient transport operations, and prepare sustainability reports for stakeholders.
+
+---
+
+## Stakeholders
+
+- Chief Sustainability Officer (Primary Stakeholder)
+- Supply Chain Management
+- Operations Team
+- Finance Department
+- Executive Management
+
+---
+
+## Business Objectives
+
+- Centralize logistics data for sustainability analysis.
+- Calculate standardized emission scores.
+- Compare average emissions across transport modes and regions.
+- Identify the highest emission cities for operational improvement.
+- Monitor emissions over time using a continuous trend.
+- Support executive ESG reporting and strategic decision-making.
+
+---
+
+## Success Criteria
+
+- Executive dashboard created.
+- Emission metrics calculated successfully.
+- Regional and transport analysis available.
+- Interactive dashboard filters implemented.
+- Documentation completed.
+
+---
+
+## Project Deliverables
+
+- Business Requirements Document
+- SQL Transformation Scripts
+- ESG Analytics Dataset
+- Tableau Dashboard
+- GitHub Repository
