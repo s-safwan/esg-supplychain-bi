@@ -75,7 +75,7 @@ Business Insights & Recommendations
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard/images/dashboard.png)
 
 ---
 
