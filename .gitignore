@@ -1,0 +1,6 @@
+*.csv
+*.zip
+*.xlsx
+*.log
+.vscode/
+__pycache__/
