@@ -43,7 +43,6 @@ This solution enables decision-makers to:
 * **Support annual ESG reporting** with an auditable, visually accessible, and mathematically sound data structure.
 
 ## Repository Structure
-```text
 architecture/
 dashboard/
 data/
