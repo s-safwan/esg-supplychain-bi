@@ -55,7 +55,7 @@ LICENSE
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/images/dashboard.png)
+![Dashboard](dashboard/images/dashboard-esg.png)
 
 ## Author
 
